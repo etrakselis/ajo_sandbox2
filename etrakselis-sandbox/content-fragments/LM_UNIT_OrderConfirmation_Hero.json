@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "operation": "create_content_fragment",
+    "ajoId": "24c122e6-36d5-417c-9780-0d44c3eddd84",
+    "updatedAt": "2026-06-23T21:29:48.087Z",
+    "updatedBy": "edwin.trakselis123@gmail.com",
+    "sandbox": "etrakselis-sandbox"
+  },
+  "channels": [
+    "email"
+  ],
+  "description": "Test fragment - hero section for the Luma Order Confirmation experience.",
+  "fragment": {
+    "content": "<div>Thanks for your order! Here are the details of your purchase.</div>"
+  },
+  "name": "LM_UNIT_OrderConfirmation_Hero",
+  "type": "html"
+}
