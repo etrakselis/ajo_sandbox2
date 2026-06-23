@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "operation": "create_content_fragment",
+    "ajoId": "11058b59-6246-4ec8-b37e-6ffeda663361",
+    "updatedAt": "2026-06-23T21:29:44.226Z",
+    "updatedBy": "edwin.trakselis123@gmail.com",
+    "sandbox": "etrakselis-sandbox"
+  },
+  "channels": [
+    "email"
+  ],
+  "description": "Test fragment - top banner for the Luma Order Confirmation experience.",
+  "fragment": {
+    "content": "<div>Luma — Your order is confirmed.</div>"
+  },
+  "name": "LM_UNIT_OrderConfirmation_TopBanner",
+  "type": "html"
+}
