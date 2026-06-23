@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "operation": "create_content_template",
+    "ajoId": "89069ecc-146c-4c97-a2bd-cc92ab0dae85",
+    "updatedAt": "2026-06-23T21:29:54.392Z",
+    "updatedBy": "edwin.trakselis123@gmail.com",
+    "sandbox": "etrakselis-sandbox"
+  },
+  "channels": [
+    "email"
+  ],
+  "templateType": "content",
+  "description": "Test template for the Luma Order Confirmation experience. Composed from the TopBanner and Hero fragments by reference.",
+  "name": "LM_UNIT_OrderConfirmation",
+  "template": {
+    "subject": "Your Luma order is confirmed",
+    "html": {
+      "body": "<html><body><table class=\"acr-structure\"><tr><th>{{ fragment id=\"ajo:11058b59-6246-4ec8-b37e-6ffeda663361\" name=\"LM_UNIT_OrderConfirmation_TopBanner\" mode=\"inline\" }}</th></tr><tr><th>{{ fragment id=\"ajo:24c122e6-36d5-417c-9780-0d44c3eddd84\" name=\"LM_UNIT_OrderConfirmation_Hero\" mode=\"inline\" }}</th></tr></table></body></html>"
+    }
+  }
+}
