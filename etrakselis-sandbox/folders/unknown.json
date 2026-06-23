@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "operation": "ensure_folder_path",
+    "updatedAt": "2026-06-23T02:56:27.618Z",
+    "updatedBy": "edwin.trakselis123@gmail.com",
+    "sandbox": "etrakselis-sandbox"
+  },
+  "folderType": "fragment",
+  "path": [
+    "LM",
+    "BIS",
+    "Wishlist"
+  ]
+}
