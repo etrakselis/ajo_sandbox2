@@ -1,11 +1,11 @@
 {
   "_meta": {
     "operation": "create_folder",
-    "updatedAt": "2026-06-23T21:30:41.317Z",
+    "updatedAt": "2026-06-23T21:31:14.944Z",
     "updatedBy": "edwin.trakselis123@gmail.com",
     "sandbox": "etrakselis-sandbox"
   },
-  "folderType": "fragment",
+  "folderType": "content-template",
   "name": "OrderConfirmation",
-  "parentFolderId": "7a50cf27-0043-4118-ae90-f488d9204c39"
+  "parentFolderId": "09020b55-18e1-4407-8491-7a5300505f14"
 }
