@@ -1,0 +1,11 @@
+{
+  "_meta": {
+    "operation": "delete_folder",
+    "requestedBy": "edwin.trakselis123@gmail.com",
+    "requestedAt": "2026-06-29T18:11:04.147Z",
+    "sandbox": "prod",
+    "tenant": "_acssandboxustwo"
+  },
+  "folderType": "content-template",
+  "folderId": "1ba63d58-5125-4736-bdb2-7e85c42cfb44"
+}
