@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "operation": "create_tag",
+    "requestedBy": "edwin.trakselis123@gmail.com",
+    "requestedAt": "2026-06-29T16:31:02.507Z",
+    "sandbox": "etrakselis-sandbox",
+    "tenant": "_acssandboxustwo"
+  },
+  "name": "trigger-claudereview"
+}
