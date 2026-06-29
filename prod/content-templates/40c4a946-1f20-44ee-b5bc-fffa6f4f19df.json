@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "operation": "delete_content_template",
+    "requestedBy": "edwin.trakselis123@gmail.com",
+    "requestedAt": "2026-06-29T18:09:23.023Z",
+    "sandbox": "prod",
+    "tenant": "_acssandboxustwo"
+  },
+  "templateId": "40c4a946-1f20-44ee-b5bc-fffa6f4f19df"
+}
