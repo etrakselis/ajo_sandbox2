@@ -1,11 +1,10 @@
 {
   "_meta": {
-    "operation": "update_tag",
+    "operation": "delete_tag",
     "requestedBy": "edwin.trakselis123@gmail.com",
-    "requestedAt": "2026-06-29T17:54:48.533Z",
+    "requestedAt": "2026-06-29T17:55:37.481Z",
     "sandbox": "etrakselis-sandbox",
     "tenant": "_acssandboxustwo"
   },
-  "tagId": "dba415dc-0016-49ac-b48a-d6beec0d86a2",
-  "archived": true
+  "tagId": "dba415dc-0016-49ac-b48a-d6beec0d86a2"
 }
