@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "operation": "patch_content_fragment",
+    "requestedBy": "edwin.trakselis123@gmail.com",
+    "requestedAt": "2026-06-29T17:53:10.374Z",
+    "sandbox": "etrakselis-sandbox",
+    "tenant": "_acssandboxustwo"
+  },
+  "fragmentId": "77a0ba2a-9a06-4fa6-a50b-718b13ffdd5a",
+  "etag": "\"340156e9-0000-0200-0000-6a42a0800000\"",
+  "patches": [
+    {
+      "op": "add",
+      "path": "/tagIds",
+      "value": []
+    },
+    {
+      "op": "remove",
+      "path": "/parentFolderId"
+    }
+  ]
+}
