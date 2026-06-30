@@ -1,18 +1,13 @@
 {
   "_meta": {
-    "operation": "create_content_template",
+    "operation": "delete_content_template",
     "requestedBy": "edwin.trakselis123@gmail.com",
-    "requestedAt": "2026-06-30T16:11:10.823Z",
+    "requestedAt": "2026-06-30T16:21:10.797Z",
     "sandbox": "prod",
     "tenant": "_acssandboxustwo",
-    "tagNames": [
-      "brand-lm",
-      "trigger-category-pd",
-      "trigger-wishlist",
-      "asset-family-lm-pd-wishlist",
-      "draft"
-    ],
-    "sourceContentHash": "141d97ee255e09cf71ca75ea554501f4d0edb1cc0e5e73e1f624cf57d76e2058"
+    "deleted": true,
+    "deletedAt": "2026-06-30T16:21:10.797Z",
+    "ajoId": "238d4445-4c19-47e1-bea2-07f351e21a8a"
   },
   "name": "LM_PD_Wishlist",
   "templateType": "content",
@@ -33,5 +28,6 @@
     "590f25a6-6f31-43df-a33e-8d9d098c05aa",
     "d5ce8422-6425-46ef-80bc-94208d933e0e"
   ],
-  "parentFolderId": "89b0fc67-5e6b-4496-acc0-7995da8e14cc"
+  "parentFolderId": "89b0fc67-5e6b-4496-acc0-7995da8e14cc",
+  "templateId": "238d4445-4c19-47e1-bea2-07f351e21a8a"
 }
